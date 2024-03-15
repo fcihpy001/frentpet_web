@@ -4,7 +4,7 @@ export default {
   slogan1: '在X上与你的好友一起养加密宠物！',
   slogan2: '收获财富、名声与势力。',
   zniao: '立即加入观察列表认领你的早鸟门票！',
-  lunchapp: '进入APP',
+  lunchapp: '进入 APP',
   firstdesc: 'ForkFrenPet是一款加密社交养宠游戏，将erc20和erc721绑定，围绕x的社交关系链构建，旨在实现更好的代币经济和社交传播！我们只会设计完全博弈的游戏，不会有任何固定的财务回报！由一个经验丰富的10人的dao小组构建！100%公平发射！',
   rfair: '真正的公平',
   zzfl: '增长的飞轮',
