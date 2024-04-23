@@ -1,7 +1,7 @@
 import styles from '@/styles/docs.module.css'
 import { useTranslation } from 'react-i18next';
 
-export default function ForkFrenPet() {
+export default function Nexio() {
     const { t } = useTranslation()
     const tableLeft = [
         t('cyxsj'),
@@ -26,7 +26,7 @@ export default function ForkFrenPet() {
         <div className={styles.table}>
             <div className="a">
                 <div className={styles.tableLeft}>
-                    <div className={styles.leftTitle}>ForkFrenPet</div>
+                    <div className={styles.leftTitle}>Nexio</div>
                     {tableLeft.map((e) => {
                         return (
                             <div key={e} className={styles.tableItem}>

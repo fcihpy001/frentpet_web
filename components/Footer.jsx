@@ -241,7 +241,7 @@ export default function Footer() {
                 </svg>
             </div>
 
-            <div className={styles.s8wrap}>Copyright © 2023 ForkFrenPet. All rights reserved.</div>
+            <div className={styles.s8wrap}>Copyright © 2023 Nexio. All rights reserved.</div>
 
             <svg
                 xmlns="http://www.w3.org/2000/svg"

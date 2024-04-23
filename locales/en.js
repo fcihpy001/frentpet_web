@@ -5,7 +5,7 @@ export default {
   slogan2: 'Harvest wealth, fame, and influence!',
   zniao: 'Join the watchlist now to claim your early bird tickets!',
   lunchapp: 'Launch App',
-  firstdesc: `ForkFrenPet is a crypto-social pet-raising game that bundles ERC20 and ERC721 tokens, built around the social graph of X. It aims to achieve a better token economy and social propagation. We only design fully gamified gameplay and there will be no fixed financial returns. It is built by an experienced 10-person DAO team. 100% fair launch!`,
+  firstdesc: `Nexio is a crypto-social pet-raising game that bundles ERC20 and ERC721 tokens, built around the social graph of X. It aims to achieve a better token economy and social propagation. We only design fully gamified gameplay and there will be no fixed financial returns. It is built by an experienced 10-person DAO team. 100% fair launch!`,
   rfair: 'True Fairness',
   zzfl: 'Growth Flywheel',
   cdaq: 'Thorough Security',
@@ -34,8 +34,8 @@ export default {
   bljsv2: 'Tribe Competition(V2)',
   aicwv3: 'AI Pets (V3)',
   zdcdzq: 'How to maximize earnings',
-  rwmsrts: `Let's dive in and discover the exciting world of ForkFrenPet!`,
-  qyandesc: `Welcome to ForkFrenPet, where we invite you to explore the world of an
+  rwmsrts: `Let's dive in and discover the exciting world of Nexio!`,
+  qyandesc: `Welcome to Nexio, where we invite you to explore the world of an
   economy-driven wealth experiment in an crypto social game! Inspired by FrenPet
   and FriendTech, this game is launched by an experienced ten-person DAO. In this
   document, we aim to provide a straightforward and concise guide to help players

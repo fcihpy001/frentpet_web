@@ -8,7 +8,7 @@ import Tribe from './tribe'
 import AiPets from './aiPets'
 import Earning from './earning'
 import Introduction from './introduction'
-import ForkFrenPet from './forkFrenPet'
+import Nexio from './forkFrenPet'
 import Tokenomics from './tokenomics'
 import { useTranslation } from 'react-i18next';
 import i18n from '@/locales/config'
@@ -16,7 +16,7 @@ export default function docs() {
     const { t } = useTranslation()
     const list = [
         { name: t('qianyan'), checked: true, node: <Introduction /> },
-        { name: 'ForkFrenPet VS FrenPet', checked: false, node: <ForkFrenPet /> },
+        { name: 'Nexio VS FrenPet', checked: false, node: <Nexio /> },
         { name: t('dbjj'), checked: false, node: <Tokenomics /> },
         { name: t('chhq'), checked: false, node: <PetMining /> },
         { name: t('chsy'), checked: false, node: <PetRaising /> },
@@ -46,7 +46,7 @@ export default function docs() {
     }, [i18n.language])
     return (
         <div className={styles.container}>
-            <div className={styles.title}>ForkFrenPet's Gameplay Guide</div>
+            <div className={styles.title}>Nexio's Gameplay Guide</div>
             <div className={styles.subTitle}>{t('rwmsrts')}</div>
             <div className={styles.content}>
                 <div className={styles.left}>

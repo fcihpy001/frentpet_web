@@ -5,7 +5,7 @@ export default {
   slogan2: '收获财富、名声与势力。',
   zniao: '立即加入观察列表认领你的早鸟门票！',
   lunchapp: '进入 APP',
-  firstdesc: 'ForkFrenPet是一款加密社交养宠游戏，将erc20和erc721绑定，围绕x的社交关系链构建，旨在实现更好的代币经济和社交传播！我们只会设计完全博弈的游戏，不会有任何固定的财务回报！由一个经验丰富的10人的dao小组构建！100%公平发射！',
+  firstdesc: 'Nexio是一款加密社交养宠游戏，将erc20和erc721绑定，围绕x的社交关系链构建，旨在实现更好的代币经济和社交传播！我们只会设计完全博弈的游戏，不会有任何固定的财务回报！由一个经验丰富的10人的dao小组构建！100%公平发射！',
   rfair: '真正的公平',
   zzfl: '增长的飞轮',
   cdaq: '彻底的安全',
@@ -34,8 +34,8 @@ export default {
   bljsv2: '部落竞赛(V2)',
   aicwv3: 'AI宠物(V3)',
   zdcdzq: '如何最大程度的赚取',
-  rwmsrts: '让我们深入探索 ForkFrenPet 的精彩世界!',
-  qyandesc: `欢迎来到 ForkFrenPet
+  rwmsrts: '让我们深入探索 Nexio 的精彩世界!',
+  qyandesc: `欢迎来到 Nexio
   与我们一起探索加密社交游戏，这是一个由经济驱动的财富实验游戏！
   受到FrenPet和FriendTech的启发，由一个经验丰富的十人DAO推出，在本文档中，我们希望抛去复杂的话术和想法，通过简单直白的话语让玩家能够快速加入。`,
   zyfren: '注意：“Fren”一词是源自“friend”的俚语，通常在在线社区中用来指代亲密的朋友或同伴。',

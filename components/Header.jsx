@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react'
 import Router, { useRouter } from 'next/router'
 import { useTranslation } from 'react-i18next';
 import i18n from '@/locales/config';
+import Link from 'next/link';
 
 export default function Header() {
     const { t } = useTranslation();
@@ -108,6 +109,7 @@ export default function Header() {
                 <img className={styles.titlelogo} src='/Image/title-logo.png' />
             </div>
             <div className={styles.right}>
+                <Link href='/docs'>Doc</Link>
                 <div className={styles.rightContent} onClick={() => changeLanguage()}>
                     <p>{
                         currentLanguage == 'zh' ? '中文' : 'English'

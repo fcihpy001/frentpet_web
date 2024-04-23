@@ -7,7 +7,7 @@ export default function Home() {
     const { t } = useTranslation()
 
     const handleConnectClick = () => {
-        location.href = 'https://app.forkfrenpet.com/'
+        location.href = 'https://frent-app.vercel.app'
     }
     return (
         <div className={styles.container}>
@@ -18,7 +18,7 @@ export default function Home() {
             <div className={styles.backCenterImge}>
                 <div className={styles.a}>
                     <div className={styles.join}>{t('join')}</div>
-                    <div className={styles.mmtitle}>FORKFRENPET</div>
+                    <div className={styles.mmtitle}>Nexio</div>
                     <div className={styles.slogan}>{t('slogan1')}</div>
                     <div className={styles.slogan}>{t('slogan2')}</div>
                 </div>
@@ -38,10 +38,10 @@ export default function Home() {
                     </svg>
                 </div>
                 <div className={styles.hrefs}>
-                    <a href='https://x.com/forkfrenpet' target='_blank'>
+                    <a href='https://x.com/Nexio' target='_blank'>
                         <img src='/Image/twitter.png' />
                     </a>
-                    <a href='https://x.com/forkfrenpet/status/1760011780863209510' target='_blank'>
+                    <a href='https://x.com/Nexio/status/1760011780863209510' target='_blank'>
                         <img src='/Image/cc.png' />
                     </a>
                     <img src='/Image/github.png' />
@@ -859,7 +859,7 @@ export default function Home() {
             <div className={styles.s6wrap}>
                 <div className={styles.title}>
                     <div className={styles.totalBiall}>{t('totalBiall')}</div>
-                    <p className={styles.symbol}>$FFP</p>
+                    <p className={styles.symbol}>$NEXT</p>
                     {t('zzfp')}
                 </div>
                 <div className={styles.contentwrap}>

@@ -8,8 +8,8 @@ export default function App({ Component, pageProps }) {
         <div>
             <div className="app">
                 <Head>
-                    <title>ForkFrenpet</title>
-                    <meta name="description" content="ForkFrenpet" />
+                    <title>Nexio</title>
+                    <meta name="description" content="Nexio" />
                     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"></meta>
                     <link rel="icon" href="/favicon.ico" />
                 </Head>
